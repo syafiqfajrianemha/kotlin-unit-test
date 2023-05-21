@@ -32,7 +32,7 @@ dependencies {
     // testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
 
     // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.2")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.6.2")
 }
 
 tasks.named<Test>("test") {
